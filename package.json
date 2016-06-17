@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Demo of package.json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisbaj/deploy-node.git"
+  },
+  "author": "Balaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisbaj/deploy-node/issues"
+  },
+  "homepage": "https://github.com/krisbaj/deploy-node#readme"
+}
